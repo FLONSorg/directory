@@ -1,3 +1,4 @@
 {
-  "freifunk" : "http://api.freifunk.net/flons-api.json"
+  "freifunk" : "http://api.freifunk.net/flons-api.json",
+  "funkfeuer" : "http://funkfeuer.at/flons-api.json"
 }
