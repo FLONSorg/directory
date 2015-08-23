@@ -1,4 +1,5 @@
 {
   "freifunk" : "http://api.freifunk.net/flons-api.json",
   "funkfeuer" : "http://funkfeuer.at/flons-api.json"
+  "ninuxbo" : "https://wiki.bologna.ninux.org/mediawiki/images/d/d4/NinuxBO-api.json"
 }
