@@ -2,7 +2,5 @@
   "freifunk" : "http://api.freifunk.net/flons-api.json",
   "funkfeuer" : "http://funkfeuer.at/flons-api.json",
   "ninux" : "http://wiki.ninux.org/FLONS?action=AttachFile&do=get&target=flons-api.json",
-  "ecn": "https://ecn.scot/_showraw/flons.json",
-  "hubs": "https://hubs.net.uk/misc/flons.json",
-  "tegola": "http://www.tegola.org.uk/misc/flons.json"
+  "hubs": "https://hubs.net.uk/misc/flons.json"
 }
