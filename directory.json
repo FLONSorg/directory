@@ -1,5 +1,6 @@
 {
   "freemesh-denmark": "https://raw.githubusercontent.com/Freemesh-Denmark/freemesh-api/master/FreemeshDenmark-api.json",
+  "freemesh-ireland": "http://www.freemesh.ie/api.json",
   "freifunk" : "http://api.freifunk.net/flons-api.json",
   "funkfeuer" : "http://funkfeuer.at/flons-api.json",
   "hubs": "https://hubs.net.uk/misc/flons.json",
